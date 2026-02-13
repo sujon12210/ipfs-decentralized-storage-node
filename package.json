@@ -1,0 +1,10 @@
+{
+  "name": "ipfs-storage-node",
+  "version": "1.0.0",
+  "description": "Decentralized file management using IPFS",
+  "main": "storage.js",
+  "dependencies": {
+    "kubo-rpc-client": "^3.0.1",
+    "dotenv": "^16.3.1"
+  }
+}
